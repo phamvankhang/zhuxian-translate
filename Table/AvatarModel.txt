@@ -1,0 +1,237 @@
+Id	Name	ResPath	Scale	PosX	PosY	PosZ	RotX	RotY	RotZ	BindPoint	FBAnimNode	FBAnimBone
+INT	STRING	STRING	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	FLOAT	STRING	STRING	STRING
+#												
+#角色ID	描述（程序不读）	资源路径	缩放比例	X方向偏移	Y方向偏移	Z方向偏移	X方向旋转	Y方向旋转	Z方向旋转	绑定点(对应CharModelPoint表格 目前只对法宝生效 其余固定绑定点)	法宝动画节点（法宝模型->动画节点->人物骨骼->根）	法宝动画节点的绑定骨骼
+0	法宝-寒冰剑	fabao_hanbingjian_001	0.45	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+1	法宝-羽皇	Fb_qingyun_yuhuang_1	0.2	-0.85	-0.76	-0.2	-1.88E-05	-90	-90		Magic_Weapon	Magic_Weapon_point01
+2	武器-寒冰剑	Jian_hanbingjian_01	1	0	0	0	0	0	0			
+3	法宝-羽翅	wuqi_fabao_002	1	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+4	发型-男1	Fx_nan_01	1	0	0	0	0	0	0	0		
+5	发型-女1	Fx_nv_01	1	0	0	0	0	0	0	0		
+6	发型-男2	Fx_nan_02	1	0	0	0	0	0	0	0		
+7	发型-女2	Fx_nv_02	1	0	0	0	0	0	0	0		
+8	法宝-羽皇-绑后背	Fb_qingyun_yuhuang_1	1	0.9668466	-0.3369576	0	-75.56137	89.99969	0.000335693	BackPoint		
+9	法宝-羽翅-绑后背	Fb_qingyun_yuchi_1	1	0.9668466	-0.3369576	0	-75.56137	89.99995	0.000352173	BackPoint		
+10	发型-男3	Fx_nan_03	1	0	0	0	0	0	0	0		
+11	发型-男4	Fx_nan_04	1	0	0	0	0	0	0	0		
+12	发型-男5	Fx_nan_05	1	0	0	0	0	0	0	0		
+13	发型-女3	Fx_nv_03	1	0	0	0	0	0	0	0		
+14	发型-女5	Fx_nv_05	1	0	0	0	0	0	0	0		
+15	发型-女6	Fx_nv_06	1	0	0	0	0	0	0	0		
+16	发型-女8	Fx_nv_08	1	0	0	0	0	0	0	0		
+17	发型-女9	Fx_nv_09	1	0	0	0	0	0	0	0		
+18	武器-鬼王替代（男）	Ren_001_1	0.7	0	0	0	0	0	0			
+19	武器-合欢替代	Huan_001_1	1	0	0	0	0	0	0			
+20	六合镜	Fb_x_liuhejing_1	0.45	0	0	0	0	0	-90		Magic_Weapon	Magic_Weapon_point01
+21	轮回珠	Fb_x_lunhuizhu_1	0.3	0	0	0	0	-90	-90		Magic_Weapon	Magic_Weapon_point01
+22	朱雀印	Fb_x_zhuqueyin_1	0.3	0	0	0	0	0	-90		Magic_Weapon	Magic_Weapon_point01
+23	慑心铃	Fb_x_niexinling_1	0.25	0	0	0	0	0	-90		Magic_Weapon	Magic_Weapon_point01
+24	青灵石	fabao_hanbingjian_001	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+25	控妖笛	fabao_hanbingjian_001	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+26	寒冰剑	fabao_hanbingjian_001	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+27	紫金葫芦	Fb_ty_zijinhulu_1_S	0.7	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+28	伤心花	Fb_x_shangxinhua_1	0.3	0	0	0	0	-90	-90		Magic_Weapon	Magic_Weapon_point01
+29	阴阳镜	Fb_x_yinyangjing_1	0.45	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+30	九阳尺	fabao_hanbingjian_001	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+31	斩相思	fabao_hanbingjian_001	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+32	山河扇	Fb_x_shanheshan_1	0.45	0	0	0	0	0	-90		Magic_Weapon	Magic_Weapon_point01
+33	神木骰	Fb_x_shenmutou_1	0.4	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+34	天琊	Fb_x_tianyajian_1	0.45	0	0	0	0	180	90		Magic_Weapon	Magic_Weapon_point01
+35	大悲金轮	Fb_x_huangjinlun_1	0.45	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+36	伏龙鼎	Fb_x_fulongding_1	0.55	0	0	0	90	0	0		Magic_Weapon	Magic_Weapon_point01
+37	合欢铃	Fb_x_hehuanling_1	0.45	0	0	0	0	180	90		Magic_Weapon	Magic_Weapon_point01
+38	九凝玄冰刺	fabao_hanbingjian_001	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+39	万毒归宗袋	fabao_hanbingjian_001	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+40	星盘	Fb_x_xingpan_1	0.45	0	0	0	0	-90	-90		Magic_Weapon	Magic_Weapon_point01
+41	紫芒刃	Fb_x_feijianzimang_1	0.5	0	0	0	0	180	0		Magic_Weapon	Magic_Weapon_point01
+42	乾坤青光戒	Fb_x_qiankunqingguangjie_1	0.45	0	0	0	0	0	-90		Magic_Weapon	Magic_Weapon_point01
+43	羽翅	wuqi_fabao_002	1	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+44	羽皇	Fb_qingyun_yuhuang_1	0.2	-0.85	-0.76	-0.2	-1.88E-05	-90	-90		Magic_Weapon	Magic_Weapon_point01
+45	玄火鉴	Fb_x_xuanhuojian_1	0.45	0	0	0	0	0	-90		Magic_Weapon	Magic_Weapon_point01
+46	噬血珠	Fb_x_shixuezhu_1	0.45	0	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+47	摄魂	Fb_x_shehun_1	0.45	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+48	噬魂	Fb_shaohuogun_1	0.7	0	0	0	0	-90	180		Magic_Weapon	Magic_Weapon_point01
+49	武器-鬼王替代（女）	Ren_001_1	0.6	0	0	0	0	0	0			
+50	发型-男9	Fx_nan_09	1	0	0	0	0	0	0	0		
+51	发型-女10	Fx_nv_10	1	0	0	0	0	0	0	0		
+52	发型-男8	Fx_nan_08	1	0	0	0	0	0	0	0		
+53	武器-合欢40级	Huan_40_1	1	0	0	0	0	0	0			
+54	发型-男15	Fx_nan_15	1	0	0	0	0	0	0	0		
+55	碧瑶发型-女	Fx_nv_11	1	0	0	0	0	0	0	0		
+56	头部-男13（新手时装2）(废弃)	Fx_nan_13	1	0	0	0	0	0	0	0		
+57	武器-天音40级	Zhang_40_1	1	0	0	0	0	0	0			
+58	发型-男12	Fx_nan_12	1	0	0	0	0	0	0	0		
+59	武器-青云40级	Jian_40_1	0.8	0	0	0	0	0	0			
+60	武器-鬼王40级	Ren_40_1	0.8	0	0	0	0	0	0			
+61	面部-测试	Lian_nan_Text	1	0	0	0	0	0	0	0		
+62	头发-测试	Fx_nan_Text	1	0	0	0	0	0	0	0		
+63	脸-男1	Lian_nan_01	1	0	0	0	0	0	0	0		
+64	脸-男2	Lian_nan_02	1	0	0	0	0	0	0	0		
+65	脸-男3	Lian_nan_03	1	0	0	0	0	0	0	0		
+66	脸-男4	Lian_nan_04	1	0	0	0	0	0	0	0		
+67	脸-男5	Lian_nan_05	1	0	0	0	0	0	0	0		
+68	脸-男6	Lian_nan_06	1	0	0	0	0	0	0	0		
+69	脸-女1	Lian_nv_01	1	0	0	0	0	0	0	0		
+70	脸-女2	Lian_nv_02	1	0	0	0	0	0	0	0		
+71	脸-女3	Lian_nv_03	1	0	0	0	0	0	0	0		
+72	脸-女4	Lian_nv_04	1	0	0	0	0	0	0	0		
+73	脸-女5	Lian_nv_05	1	0	0	0	0	0	0	0		
+74	脸-女6	Lian_nv_06	1	0	0	0	0	0	0	0		
+75	发型-女14	Fx_nv_14	1	0	0	0	0	0	0	0		
+76	琥珀朱绫	Fb_x_hupozhuling_1	0.75	0	0	0	0	0	0		Magic_Weapon	Magic_Weapon_point01
+77	诛仙	Fb_x_zhuxiangujian_1	0.55	0	0	0	0	-180	0		Magic_Weapon	Magic_Weapon_point01
+78	武器-青云男1级	Jian_10_1	1	0	0	0	0	0	0			
+79	武器-青云女1级	Jian_10_1	0.7	0	0	0	0	0	0			
+80	武器-天音男1级	Zhang_10_1	1	0	0	0	0	0	0			
+81	武器-天音女1级	Zhang_10_1	0.7	0	0	0	0	0	0			
+82	武器-鬼王男1级	Ren_10_1	1	0	0	0	0	0	0			
+83	武器-鬼王女1级	Ren_10_1	0.7	0	0	0	0	0	0			
+84	武器-合欢男1级	Huan_10_1	1.4	0	0	0	0	0	0			
+85	武器-合欢女1级	Huan_10_1	1.3	0	0	0	0	0	0			
+86	武器-青云男20级	Jian_20_1	1	0	0	0	0	0	0			
+87	武器-青云女20级	Jian_20_1	0.7	0	0	0	0	0	0			
+88	武器-天音男20级	Zhang_20_1	1	0	0	0	0	0	0			
+89	武器-天音女20级	Zhang_20_1	0.7	0	0	0	0	0	0			
+90	武器-鬼王男20级	Ren_20_1	1	0	0	0	0	0	0			
+91	武器-鬼王女20级	Ren_20_1	0.7	0	0	0	0	0	0			
+92	武器-合欢男20级	Huan_20_1	1.5	0	0	0	0	0	0			
+93	武器-合欢女20级	Huan_20_1	1.3	0	0	0	0	0	0			
+94	武器-青云男40级	Jian_40_1	1	0	0	0	0	0	0			
+95	武器-青云女40级	Jian_40_1	0.7	0	0	0	0	0	0			
+96	武器-天音男40级	Zhang_40_1	1	0	0	0	0	0	0			
+97	武器-天音女40级	Zhang_40_1	0.7	0	0	0	0	0	0			
+98	武器-鬼王男40级	Ren_40_1	1	0	0	0	0	0	0			
+99	武器-鬼王女40级	Ren_40_1	0.7	0	0	0	0	0	0			
+100	武器-合欢男40级	Huan_40_1	1.5	0	0	0	0	0	0			
+101	武器-合欢女40级	Huan_40_1	1.3	0	0	0	0	0	0			
+102	武器-青云男70级	Jian_70_1	1	0	0	0	0	0	0			
+103	武器-青云女70级	Jian_70_1	0.7	0	0	0	0	0	0			
+104	武器-天音男70级	Zhang_70_1	1	0	0	0	0	0	0			
+105	武器-天音女70级	Zhang_70_1	0.7	0	0	0	0	0	0			
+106	武器-鬼王男70级	Ren_70_1	1	0	0	0	0	0	0			
+107	武器-鬼王女70级	Ren_70_1	0.7	0	0	0	0	0	0			
+108	武器-合欢男70级	Huan_70_1	1.4	0	0	0	0	0	0			
+109	武器-合欢女70级	Huan_70_1	1.2	0	0	0	0	0	0			
+110	武器-青云男100级	Jian_100_1	1	0	0	0	0	0	0			
+111	武器-青云女100级	Jian_100_1	0.7	0	0	0	0	0	0			
+112	武器-天音男100级	Zhang_100_1	1	0	0	0	0	0	0			
+113	武器-天音女100级	Zhang_100_1	0.7	0	0	0	0	0	0			
+114	武器-鬼王男100级	Ren_100_1	1	0	0	0	0	0	0			
+115	武器-鬼王女100级	Ren_100_1	0.7	0	0	0	0	0	0			
+116	武器-合欢男100级	Huan_100_1	1.3	0	0	0	0	0	0			
+117	武器-合欢女100级	Huan_100_1	1.15	0	0	0	0	0	0			
+118	武器-青云男130级	Jian_130_1	1	0	0	0	0	0	0			
+119	武器-青云女130级	Jian_130_1	0.7	0	0	0	0	0	0			
+120	武器-天音男130级	Zhang_130_1	1	0	0	0	0	0	0			
+121	武器-天音女130级	Zhang_130_1	0.7	0	0	0	0	0	0			
+122	武器-鬼王男130级	Ren_130_1	1	0	0	0	0	0	0			
+123	武器-鬼王女130级	Ren_130_1	0.7	0	0	0	0	0	0			
+124	武器-合欢男130级	Huan_130_1	1.2	0	0	0	0	0	0			
+125	武器-合欢女130级	Huan_130_1	1.1	0	0	0	0	0	0			
+126	武器-青云男150级	Jian_150_1	1	0	0	0	0	0	0			
+127	武器-青云女150级	Jian_150_1	0.7	0	0	0	0	0	0			
+128	武器-天音男150级	Zhang_150_1	1	0	0	0	0	0	0			
+129	武器-天音女150级	Zhang_150_1	0.7	0	0	0	0	0	0			
+130	武器-鬼王男150级	Ren_150_1	1	0	0	0	0	0	0			
+131	武器-鬼王女150级	Ren_150_1	0.7	0	0	0	0	0	0			
+132	武器-合欢男150级	Huan_150_1	1.2	0	0	0	0	0	0			
+133	武器-合欢女150级	Huan_150_1	1.1	0	0	0	0	0	0			
+134	武器-青云男转135级	Jian_135_1	1	0	0	0	0	0	0			
+135	武器-青云女转135级	Jian_135_1	0.7	0	0	0	0	0	0			
+136	武器-天音男转135级	Zhang_135_1	1	0	0	0	0	0	0			
+137	武器-天音女转135级	Zhang_135_1	0.7	0	0	0	0	0	0			
+138	武器-鬼王男转135级	Ren_135_1	1	0	0	0	0	0	0			
+139	武器-鬼王女转135级	Ren_135_1	0.7	0	0	0	0	0	0			
+140	武器-合欢男转135级	Huan_135_1	1.2	0	0	0	0	0	0			
+141	武器-合欢女转135级	Huan_135_1	1	0	0	0	0	0	0			
+142	武器-青云男转145级	Jian_145_1	1	0	0	0	0	0	0			
+143	武器-青云女转145级	Jian_145_1	0.7	0	0	0	0	0	0			
+144	武器-天音男转145级	Zhang_145_1	1	0	0	0	0	0	0			
+145	武器-天音女转145级	Zhang_145_1	0.7	0	0	0	0	0	0			
+146	武器-鬼王男转145级	Ren_145_1	1	0	0	0	0	0	0			
+147	武器-鬼王女转145级	Ren_145_1	0.7	0	0	0	0	0	0			
+148	武器-合欢男转145级	Huan_145_1	0.7	0	0	0	0	0	0			
+149	武器-合欢女转145级	Huan_145_1	0.6	0	0	0	0	0	0			
+150	武器-青云男转155级	Jian_155_1	1	0	0	0	0	0	0			
+151	武器-青云女转155级	Jian_155_1	0.7	0	0	0	0	0	0			
+152	武器-天音男转155级	Zhang_155_1	1	0	0	0	0	0	0			
+153	武器-天音女转155级	Zhang_155_1	0.7	0	0	0	0	0	0			
+154	武器-鬼王男转155级	Ren_155_1	1	0	0	0	0	0	0			
+155	武器-鬼王女转155级	Ren_155_1	0.7	0	0	0	0	0	0			
+156	武器-合欢男转155级	Huan_155_1	1	0	0	0	0	0	0			
+157	武器-合欢女转155级	Huan_155_1	0.8	0	0	0	0	0	0			
+158	九尾狐时装发型-男	Fx_nan_06	1	0	0	0	0	0	0	0		
+159	发型-男13	Fx_nan_13	1	0	0	0	0	0	0	0		
+160	发型-男14	Fx_nan_14	1	0	0	0	0	0	0	0		
+161	发型-男16	Fx_nan_16	1	0	0	0	0	0	0	0		
+162	发型-女4	Fx_nv_04	1	0	0	0	0	0	0	0		
+163	九尾狐时装发型-女	Fx_nv_07	1	0	0	0	0	0	0	0		
+164	陆雪琪发型-女	Fx_nv_12	1	0	0	0	0	0	0	0		
+165	鬼厉发型-男	Fx_nan_17	1	0	0	0	0	0	0	0		
+166	碧瑶发型2-女	Fx_nv_13	1	0	0	0	0	0	0	0		
+167	陆雪琪发型2-女	Fx_nv_20	1	0	0	0	0	0	0	0		
+168	鬼厉发型2-男	Fx_nan_18	1	0	0	0	0	0	0	0		
+169	四灵幡	Fb_x_silingfan_1	0.45	0	0	0	0	0	-90		Magic_Weapon	Magic_Weapon_point01
+170	多情环	Fb_x_duoqinghuan_1	0.3	0	0	0	0	-90	-90		Magic_Weapon	Magic_Weapon_point01
+171	学生发型-男	Fx_nan_19	1	0	0	0	0	0	0	0		
+172	学生发型-女	Fx_nv_21	1	0	0	0	0	0	0	0		
+173	中秋发型-男	Fx_nan_20	1	0	0	0	0	0	0	0		
+174	中秋发型-女	Fx_nv_22	1	0	0	0	0	0	0	0		
+175	凤凰发型-男	Fx_nan_21	1	0	0	0	0	0	0	0		
+176	凤凰发型-女	Fx_nv_23	1	0	0	0	0	0	0	0		
+177	斩龙剑	Fb_x_zhanlongjian_1	0.45	0	0	0	0	180	90		Magic_Weapon	Magic_Weapon_point01
+178	南瓜发型-男	Fx_nan_24	1	0	0	0	0	0	0	0		
+179	南瓜发型-女	Fx_nv_24	1	0	0	0	0	0	0	0		
+180	舞会面具发型-男	Fx_nan_22	1	0	0	0	0	0	0	0		
+181	舞会面具发型-女	Fx_nv_25	1	0	0	0	0	0	0	0		
+182	吸血鬼发型-男	Fx_nan_23	1	0	0	0	0	0	0	0		
+183	吸血鬼发型-女	Fx_nv_26	1	0	0	0	0	0	0	0		
+184	单身狗发型-男	Fx_nan_25	1	0	0	0	0	0	0	0		
+185	单身狗发型-女	Fx_nv_27	1	0	0	0	0	0	0	0		
+186	武器-青云男圣诞1	Jian_shengdan_1	1	0	0	0	0	0	0			
+187	武器-青云女圣诞1	Jian_shengdan_1	0.7	0	0	0	0	0	0			
+188	武器-天音男圣诞1	Zhang_shengdan_1	1.2	0	0	0	0	0	0			
+189	武器-天音女圣诞1	Zhang_shengdan_1	0.9	0	0	0	0	0	0			
+190	武器-鬼王男圣诞1	Ren_shengdan_1	1.2	0	0	0	0	0	0			
+191	武器-鬼王女圣诞1	Ren_shengdan_1	0.9	0	0	0	0	0	0			
+192	武器-合欢男圣诞1	Huan_shengdan_1	0.8	0	0	0	0	0	0			
+193	武器-合欢女圣诞1	Huan_shengdan_1	0.7	0	0	0	0	0	0			
+194	武器-青云男星辰	Jian_xingchen_1	1	0	0	0	0	0	0			
+195	武器-青云女星辰	Jian_xingchen_1	0.7	0	0	0	0	0	0			
+196	武器-天音男星辰	Zhang_xingchen_1	1	0	0	0	0	0	0			
+197	武器-天音女星辰	Zhang_xingchen_1	0.7	0	0	0	0	0	0			
+198	武器-鬼王男星辰	Ren_xingchen_1	1	0	0	0	0	0	0			
+199	武器-鬼王女星辰	Ren_xingchen_1	0.7	0	0	0	0	0	0			
+200	武器-合欢男星辰	Huan_xingchen_1	1.2	0	0	0	0	0	0			
+201	武器-合欢女星辰	Huan_xingchen_1	1	0	0	0	0	0	0			
+202	圣诞1发型-男	Fx_nan_27	1	0	0	0	0	0	0	0		
+203	圣诞1发型-女	Fx_nv_30	1	0	0	0	0	0	0	0		
+204	新年壹发型-男	Fx_nan_26	1	0	0	0	0	0	0	0		
+205	新年壹发型-女	Fx_nv_28	1	0	0	0	0	0	0	0		
+206	新年贰发型-男	Fx_nan_28	1	0	0	0	0	0	0	0		
+207	新年贰发型-女	Fx_nv_29	1	0	0	0	0	0	0	0		
+208	爆竹	Fb_x_baozhu_1	0.3	-0.3	0	0	0	-90	0		Magic_Weapon	Magic_Weapon_point01
+209	武器-青云男新年	Jian_xinnian_1	1	0	0	0	0	0	0			
+210	武器-青云女新年	Jian_xinnian_1	0.7	0	0	0	0	0	0			
+211	武器-天音男新年	Zhang_xinnian_1	1	0	0	0	0	0	0			
+212	武器-天音女新年	Zhang_xinnian_1	0.7	0	0	0	0	0	0			
+213	武器-鬼王男新年	Ren_xinnian_1	1	0	0	0	0	0	0			
+214	武器-鬼王女新年	Ren_xinnian_1	0.7	0	0	0	0	0	0			
+215	武器-合欢男新年	Huan_xinnian_1	1.2	0	0	0	0	0	0			
+216	武器-合欢女新年	Huan_xinnian_1	1	0	0	0	0	0	0			
+217	情缘壹·发·男	Fx_nan_30	1	0	0	0	0	0	0	0		
+218	情缘壹·发·女	Fx_nv_33	1	0	0	0	0	0	0	0		
+219	情缘贰·发·男	Fx_nan_29	1	0	0	0	0	0	0	0		
+220	情缘贰·发·女	Fx_nv_31	1	0	0	0	0	0	0	0		
+221	武器-青云男白玉	Jian_baiyu_1	1	0	0	0	0	0	0			
+222	武器-青云女白玉	Jian_baiyu_1	0.7	0	0	0	0	0	0			
+223	武器-天音男白玉	Zhang_baiyu_1	1.2	0	0	0	0	0	0			
+224	武器-天音女白玉	Zhang_baiyu_1	0.9	0	0	0	0	0	0			
+225	武器-鬼王男白玉	Ren_baiyu_1	1.2	0	0	0	0	0	0			
+226	武器-鬼王女白玉	Ren_baiyu_1	0.9	0	0	0	0	0	0			
+227	武器-合欢男白玉	Huan_baiyu_1	0.8	0	0	0	0	0	0			
+228	武器-合欢女白玉	Huan_baiyu_1	0.7	0	0	0	0	0	0			
+229	武器-焚香男白玉	Chi_baiyu_1	0.8	0	0	0	0	0	0			
+230	武器-焚香女白玉	Chi_baiyu_1	0.8	0	0	0	0	0	0			
+231	蝴蝶装·发·男	Fx_nan_34	1	0	0	0	0	0	0	0		
+232	蝴蝶装·发·女	Fx_nv_38	1	0	0	0	0	0	0	0		

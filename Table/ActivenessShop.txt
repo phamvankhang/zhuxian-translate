@@ -1,0 +1,11 @@
+Id	Desc	NeedActiveness	Type	ItemId	ItemNum	GoldCoinNum	IsNeedCheckCode
+INT	STRING	INT	INT	INT	INT	INT	INT
+#MAX_ID=999;MAX_RECORD=100;TableType=Hash;							
+#唯一标示 累计活跃度	描述，策划维护，此列程序不读	兑换需要的活跃度	奖励类型（1物品 2金币）	奖励物品ID	奖励物品数量	奖励金币数	领取时是否要弹验证码
+0	20点活跃度奖励	20	1	3000	2	0	0
+1	40点活跃度奖励	40	2	-1	0	1000	0
+2	60点活跃度奖励	60	1	3000	3	0	0
+3	80点活跃度奖励	80	1	13205	1	0	0
+4	100点活跃度奖励	100	1	15000	5	0	0
+5	120点活跃度奖励	120	2	-1	0	2000	0
+6	140点活跃度奖励	140	2	-1	0	4000	0

@@ -1,0 +1,14 @@
+Id	Desc	ExpFactor	SilverCoinFactor	ItemID1	ItemCount1	ItemID2	ItemCount2	ItemID3	ItemCount3	DroplistId
+INT	STRING	FLOAT	FLOAT	INT	INT	INT	INT	INT	INT	INT
+#MAX_ID=99999;MAX_RECORD=10240;TableType=Hash;										
+#ID 环id	程序不读	经验系数	银币系数	物品1	物品1数量	物品2	物品2数量	物品3	物品3数量	掉落列表，索引CopySceneDrop.txt表
+1	第1环	0.55	0.55	-1	-1	-1	-1	-1	-1	-1
+2	第2环	0.65	0.65	-1	-1	-1	-1	-1	-1	-1
+3	第3环	0.75	0.75	-1	-1	-1	-1	-1	-1	-1
+4	第4环	0.85	0.85	-1	-1	-1	-1	-1	-1	-1
+5	第5环	0.95	0.95	-1	-1	-1	-1	-1	-1	-1
+6	第6环	1.05	1.05	-1	-1	-1	-1	-1	-1	-1
+7	第7环	1.15	1.15	-1	-1	-1	-1	-1	-1	-1
+8	第8环	1.25	1.25	-1	-1	-1	-1	-1	-1	-1
+9	第9环	1.35	1.35	22438	1	-1	-1	-1	-1	-1
+10	第10环	1.45	1.45	22413	2	22414	2	-1	-1	-1
